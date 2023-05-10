@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.4.3",
+  "description": "welcome to web programming ",
+  "main": "fewwe",
+  "scripts": {
+    "test": "wohue",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tpatel106"
+  },
+  "keywords": [
+    "2132"
+  ],
+  "author": "tanveer patel",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
